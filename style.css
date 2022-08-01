@@ -1,15 +1,36 @@
 body{
-    background-color: grey;
-    color: hotpink;
+    background-color: lightgrey;
+    color: #C64191;
+    font-size: 14px;
+    font-family: sans-serif;
 }
 
 h1{
     font-size: 64px;
+    text-align: center;
+    margin-top: 5%;
 }
 
 menu{
     border-width: 3px;
     border-style: solid;
-    border-color: blueviolet;
+    border-color: rgb(165, 6, 88);
     background-color: beige;
+    padding: 10px;
+    width: 100px;
+    position: absolute;
+    left: 5%;
+}
+
+section{
+    margin-left: 20%;
+}
+
+a:visited {
+    color: #C64191;
+    text-decoration: none;
+}
+a {
+    color: #C64191;
+    text-decoration: none;
 }
