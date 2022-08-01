@@ -1,1 +1,1 @@
-# druhy-projekt
+# Vítejte i mého projektu. :)
